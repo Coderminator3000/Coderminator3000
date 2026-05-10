@@ -3,8 +3,8 @@ import aiohttp
 from aiogram import Bot, Dispatcher, F
 from aiogram.types import Message
 
-BOT_TOKEN = '8694790951:AAF0xOIB0IXJlGdZsF9gPGyB-98pFZXMSHw'
-GEMINI_API_KEY = 'AIzaSyDYQtNOpyyANuIq8hje0FVJDDokSp9Cn7I'
+BOT_TOKEN = ''
+GEMINI_API_KEY = ''
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
